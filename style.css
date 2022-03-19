@@ -1,5 +1,4 @@
 .onyx {
-
     text-align: center;
     font-size: 50px;
     color: white;
@@ -15,4 +14,15 @@
     color: white;
     text-decoration: none;
     padding-right: 20px;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:blue
+}
+
+.contact-info {
+    padding: 15px;
 }
